@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ginospizzeria.nl" resolutions="1x" timestamp="1609618812752">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ginospizzeria.nl" resolutions="1x" timestamp="1609620409621">
   <folder name="css">
     <file name="site_global.css" crc="370384728"/>
     <file name="master_a-master.css" crc="62593132" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="358095057" ref="index"/>
-    <file name="nomq_index.css" crc="46580240" ref="index"/>
+    <file name="index.css" crc="229174576" ref="index"/>
+    <file name="nomq_index.css" crc="530581676" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -60,6 +60,22 @@
     <file name="5ad897372a5ab0a293a7513d-large328x219.jpg" crc="4054081777" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="16 solid envelope closed-u1671.png" crc="4206855305" ref="index"/>
+    <file name="21 retro telephone-u1685.png" crc="4285523000" ref="index"/>
+    <file name="07 instagram-u1705.png" crc="127434895" ref="index"/>
+    <file name="03 facebook-u1893.png" crc="198542969" ref="index"/>
+    <file name="20200321_gh_odessa.jpg" crc="164624237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 4@2x.png" crc="95454278" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16 solid envelope closed-u16712.png" crc="475797584" ref="index"/>
+    <file name="21 retro telephone-u16852.png" crc="111658586" ref="index"/>
+    <file name="07 instagram-u17052.png" crc="127434895" ref="index"/>
+    <file name="03 facebook-u18932.png" crc="463254786" ref="index"/>
   </folder>
-  <file name="index.html" crc="490885472" seo="true" mt="1609618539802" redirect="true"/>
+  <file name="index.html" crc="4072941266" seo="true" mt="1609620389745" redirect="true"/>
 </manifest>
