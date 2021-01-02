@@ -1,13 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ginospizzeria.nl" resolutions="1x" timestamp="1609622031469">
-  <folder name="assets">
-    <file name="spin.gif" crc="3964334703" seo="true" mt="1609621988000"/>
-  </folder>
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ginospizzeria.nl" resolutions="1x" timestamp="1609622279134">
   <folder name="css">
     <file name="site_global.css" crc="370384728"/>
     <file name="master_a-master.css" crc="62593132" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="284327300" ref="index"/>
-    <file name="nomq_index.css" crc="4129335154" ref="index"/>
+    <file name="index.css" crc="51362601" ref="index"/>
+    <file name="nomq_index.css" crc="529812408" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -80,5 +77,5 @@
     <file name="07 instagram-u17052.png" crc="127434895" ref="index"/>
     <file name="03 facebook-u18932.png" crc="463254786" ref="index"/>
   </folder>
-  <file name="index.html" crc="3966851308" seo="true" mt="1609622024932" redirect="true"/>
+  <file name="index.html" crc="3933136584" seo="true" mt="1609622232440" redirect="true"/>
 </manifest>
