@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ginospizzeria.nl" resolutions="1x" timestamp="1609626165835">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ginospizzeria.nl" resolutions="1x" timestamp="1609749358025">
   <folder name="css">
     <file name="site_global.css" crc="370384728"/>
-    <file name="master_a-master.css" crc="343168294" ref="index"/>
+    <file name="master_a-master.css" crc="40379850" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="3854449537" ref="index"/>
-    <file name="nomq_index.css" crc="123578020" ref="index"/>
+    <file name="index.css" crc="228543219" ref="index"/>
+    <file name="nomq_index.css" crc="3824754697" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -77,5 +77,5 @@
     <file name="07 instagram-u17052.png" crc="127434895" ref="index"/>
     <file name="03 facebook-u18932.png" crc="463254786" ref="index"/>
   </folder>
-  <file name="index.html" crc="4023463090" seo="true" mt="1609626147737" redirect="true"/>
+  <file name="index.html" crc="4092280435" seo="true" mt="1609749333245" redirect="true"/>
 </manifest>
